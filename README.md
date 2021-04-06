@@ -6,7 +6,7 @@
 *II. Univariate Exploration<br>
 *III. Bivariate Exploration<br>
 *IV. Multivariate Exploration<br>
-*V. Proposal for the next step<br>
+*Conclusion<br>
 
 #Introduction:
 
