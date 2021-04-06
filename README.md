@@ -99,13 +99,7 @@ while only 40,000 come from women. This means that GoBike sharing is predominate
 - There is a consistent use of bike sharing system mostly during business or school days compared to weekend, which means that even in February 
 supposed to be very cold commuters prefer using bike rides for their daily commute to workplaces and schools etc.
 
-- The most active stations are San Francisco Caltrain Station 2 (Townsend St at 4th St), Market St at 10th St, Montgomery St BART Station (Market St at 2nd St), 
-and also San Francisco Ferry Building (Harry Bridges Plaza) which are connceted to mass public transportation (Train, Bart and Ferry). 
-Commuters have many options to get to the city either by using the train, bus service and also by using the ferry that connects Oakland, 
-Alameda, and Vallejo to the city. While, many subscribers are commuting to the city for work and, therefore, bike rentals will concentrate near major transit stations 
-during the rush hours of 8 AM and 5 PM. Either at 8 AM or 5 PM, a high volume of rides start near key transit stations as well as the outskirts of the city and finish 
-in downtown San Francisco and the Financial District. Notably, a large number of rides begin at San Francisco Caltrain Station 2 and Montgomery St BART Station and 
-the ferry stop.
+- The most active stations are San Francisco Caltrain Station 2 (Townsend St at 4th St), Market St at 10th St, Montgomery St BART Station (Market St at 2nd St), and also San Francisco Ferry Building (Harry Bridges Plaza) which are connceted to mass public transportation (Train, Bart and Ferry). Commuters have many options to get to the city either by using the train, bus service and also by using the ferry that connects Oakland, Alameda, and Vallejo to the city. While, many subscribers are commuting to the city for work and, therefore, bike rentals will concentrate near major transit stations during the rush hours of 8 AM and 5 PM. Customers might be tourists who like to ride a bike during the weekend. The reason why, the number of trips increases during weekends in the tourist attractions like Ferry building and Embarcadero (close to piers).
 
 - More rides are made on the weekdays than weekends. This means that subscribers (90.5% of the bikers) use bike rides mostly on business days for their commute to work 
 or to home while occasional customers (9.5%) use bike rides every day but with a greater usage than subscribers on weekends for their recreational activities.
