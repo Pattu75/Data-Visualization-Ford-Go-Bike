@@ -36,7 +36,7 @@ and finally drawing some conclusions as well as communicating the findings.
 - What time of day and days of the week are most rides taken on?<br>
 - Does the above depend on if a user is a subscriber or customer?<br>
 
-##What features in the dataset do you think will help support your investigation into your feature(s) of interest?
+## What features in the dataset do you think will help support your investigation into your feature(s) of interest?
 
 I would say that the duration, day of the week, time, and location information will help me the most.
 
