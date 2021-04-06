@@ -6,7 +6,6 @@
 *III. Bivariate Exploration<br>
 *IV. Multivariate Exploration<br>
 *V. Proposal for the next step<br>
-*VI. Reference<br>
 
 #Introduction:
 
@@ -19,22 +18,26 @@ throughout the city. The bikes can be unlocked from one station and returned to 
 The bikes are available for use 24 hours/day, 7 days/week, 365 days/year and riders have access to all bikes in the network when they become a member or 
 purchase an access pass.
 
+## What is the structure of your dataset?
 Ford GoBike System Data includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. 
 The dataset explores the Ford GoBike's trip data for public containing approximately 183,412 bike rides on february, 2019.
 The data includes: Trip Duration (seconds) , Start Time and Date , End Time and Date , Start Station ID , Start Station Name , Start Station Latitude , 
 Start Station Longitude , End Station ID , End Station Name, End Station Latitude , End Station Longitude , Bike ID , 
 User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual) , Member Year of Birth, Member Gender.
 
+## What is/are the main feature(s) of interest in your dataset?
 Our data analysis process for this project will provide a step by step guidance, starting by asking a series of questions, then wrangling and exploring the dataset, 
 and finally drawing some conclusions as well as communicating the findings.
 
-## Research Questions:
 - Where do Ford GoBike Bikers ride?<br>
-- How far do they go?<br>
+- How long does the average trip take?<br>
 - Which stations are most popular?<br>
 - What time of day and days of the week are most rides taken on?<br>
-- How long does the average trip take?<br>
 - Does the above depend on if a user is a subscriber or customer?<br>
+
+##What features in the dataset do you think will help support your investigation into your feature(s) of interest?
+
+I would say that the duration, day of the week, time, and location information will help me the most.
 
 We are going to use Python visualization libraries, including matplotlib and seaborn, to systematically explore Ford GoBike System Data dataset, 
 starting from plots of single variables and building up to plots of multiple variables. Then, we are going to produce a presentation that illustrates 
